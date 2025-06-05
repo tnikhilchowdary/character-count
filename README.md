@@ -9,7 +9,7 @@ A simple React application that allows users to type into a text area and displa
 
 ## Screenshot
 
-![Character Count Screenshot](.src/screenshot.png)
+![Character Count Screenshot](./src/screenshot.png)
 
 >  Make sure you add your screenshot file named `screenshot.png` in the **root folder** of your project. You can also rename it or adjust 
 
